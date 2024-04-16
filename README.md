@@ -54,7 +54,7 @@ Step 1 = The student should follow the repo's contribution guidelines by either 
 
 Top tip = include `@mjpoo` in the comment to attract his attention.
 
-Step 2 = Mjpoo will reply in the issue saying they are happy for the student to go ahead with the change.
+Step 2 = Mjpoo will reply in the issue saying they are happy for the student to go ahead with the change. He may assign the issue to the student.
 
 ## Forking and Cloning
 Step 3 = The student should create a new fork of the [main branch](https://github.com/mjpoo/PRactice) in their own Github account (e.g. https://github.com/studentname/PRactice)
