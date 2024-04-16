@@ -59,7 +59,7 @@ Step 2 = Mjpoo will reply in the issue saying they are happy for the student to 
 ## Forking and Cloning
 Step 3 = The student should create a new fork of the [main branch](https://github.com/mjpoo/PRactice) in their own Github account (e.g. https://github.com/studentname/PRactice)
 
-Step 4 = The student clones (downloads) the fork to their local machine (e.g. in VS Code).
+Step 4 = The student clones (downloads) the fork to their local machine (e.g. in VS Code) using `git clone https://github.com/student/PRactice`).
 
 ## Editing
 Step 5 = The student creates a new branch with the name of the new feature e.g. `git branch foo` and then switches/checkouts that branch e.g. `git checkout foo`
